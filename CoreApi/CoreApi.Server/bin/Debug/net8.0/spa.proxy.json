@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:4200",
+"RedirectUrl": "",
+"LaunchCommand": "npm start",
+"WorkingDirectory": "C:\\Users\\mac\\source\\repos\\CoreApi\\CoreApi.Server\\..\\coreapi.client",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}
