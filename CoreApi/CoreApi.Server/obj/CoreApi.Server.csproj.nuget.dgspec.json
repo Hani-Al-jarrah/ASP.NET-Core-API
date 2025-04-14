@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mac\\source\\repos\\CoreApi\\CoreApi.Server\\CoreApi.Server.csproj": {}
+    "C:\\Users\\mac\\Desktop\\ASP.NET-Core-API\\CoreApi\\CoreApi.Server\\CoreApi.Server.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mac\\source\\repos\\CoreApi\\CoreApi.Server\\CoreApi.Server.csproj": {
+    "C:\\Users\\mac\\Desktop\\ASP.NET-Core-API\\CoreApi\\CoreApi.Server\\CoreApi.Server.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mac\\source\\repos\\CoreApi\\CoreApi.Server\\CoreApi.Server.csproj",
+        "projectUniqueName": "C:\\Users\\mac\\Desktop\\ASP.NET-Core-API\\CoreApi\\CoreApi.Server\\CoreApi.Server.csproj",
         "projectName": "CoreApi.Server",
-        "projectPath": "C:\\Users\\mac\\source\\repos\\CoreApi\\CoreApi.Server\\CoreApi.Server.csproj",
+        "projectPath": "C:\\Users\\mac\\Desktop\\ASP.NET-Core-API\\CoreApi\\CoreApi.Server\\CoreApi.Server.csproj",
         "packagesPath": "C:\\Users\\mac\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mac\\source\\repos\\CoreApi\\CoreApi.Server\\obj\\",
+        "outputPath": "C:\\Users\\mac\\Desktop\\ASP.NET-Core-API\\CoreApi\\CoreApi.Server\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mac\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "nXQ8gD52uvv3ywScEt86LMWYAmMHDPaTJWnpSnR+tU8=",
+  "Source": "coreapi1.Server",
+  "BasePath": "_content/coreapi1.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\mac\\source\\repos\\coreapi1\\coreapi1.client\\coreapi1.client.esproj",
+      "Version": 2,
+      "Source": "coreapi1.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

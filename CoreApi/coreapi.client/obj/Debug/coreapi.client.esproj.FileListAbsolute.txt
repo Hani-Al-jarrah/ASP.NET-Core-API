@@ -1,1 +1,2 @@
 C:\Users\mac\source\repos\CoreApi\coreapi.client\obj\Debug\coreapi.client.esproj.CoreCompileInputs.cache
+C:\Users\mac\Desktop\ASP.NET-Core-API\CoreApi\coreapi.client\obj\Debug\coreapi.client.esproj.CoreCompileInputs.cache

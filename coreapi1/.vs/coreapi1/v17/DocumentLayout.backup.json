@@ -1,0 +1,272 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mac\\source\\repos\\coreapi1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A6833FF0-C2D0-4A5F-945A-247FD4C75E3B}|coreapi1.client\\coreapi1.client.esproj|c:\\users\\mac\\source\\repos\\coreapi1\\coreapi1.client\\src\\app\\category\\category.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A6833FF0-C2D0-4A5F-945A-247FD4C75E3B}|coreapi1.client\\coreapi1.client.esproj|solutionrelative:coreapi1.client\\src\\app\\category\\category.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52F08D1B-0F02-4B04-AEB6-B911040E17FD}|coreapi1.Server\\coreapi1.Server.csproj|c:\\users\\mac\\source\\repos\\coreapi1\\coreapi1.server\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52F08D1B-0F02-4B04-AEB6-B911040E17FD}|coreapi1.Server\\coreapi1.Server.csproj|solutionrelative:coreapi1.server\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6833FF0-C2D0-4A5F-945A-247FD4C75E3B}|coreapi1.client\\coreapi1.client.esproj|c:\\users\\mac\\source\\repos\\coreapi1\\coreapi1.client\\src\\app\\service\\hani.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A6833FF0-C2D0-4A5F-945A-247FD4C75E3B}|coreapi1.client\\coreapi1.client.esproj|solutionrelative:coreapi1.client\\src\\app\\service\\hani.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6833FF0-C2D0-4A5F-945A-247FD4C75E3B}|coreapi1.client\\coreapi1.client.esproj|c:\\users\\mac\\source\\repos\\coreapi1\\coreapi1.client\\src\\app\\category\\category.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A6833FF0-C2D0-4A5F-945A-247FD4C75E3B}|coreapi1.client\\coreapi1.client.esproj|solutionrelative:coreapi1.client\\src\\app\\category\\category.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6833FF0-C2D0-4A5F-945A-247FD4C75E3B}|coreapi1.client\\coreapi1.client.esproj|c:\\users\\mac\\source\\repos\\coreapi1\\coreapi1.client\\angular.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A6833FF0-C2D0-4A5F-945A-247FD4C75E3B}|coreapi1.client\\coreapi1.client.esproj|solutionrelative:coreapi1.client\\angular.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6833FF0-C2D0-4A5F-945A-247FD4C75E3B}|coreapi1.client\\coreapi1.client.esproj|c:\\users\\mac\\source\\repos\\coreapi1\\coreapi1.client\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A6833FF0-C2D0-4A5F-945A-247FD4C75E3B}|coreapi1.client\\coreapi1.client.esproj|solutionrelative:coreapi1.client\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6833FF0-C2D0-4A5F-945A-247FD4C75E3B}|coreapi1.client\\coreapi1.client.esproj|c:\\users\\mac\\source\\repos\\coreapi1\\coreapi1.client\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A6833FF0-C2D0-4A5F-945A-247FD4C75E3B}|coreapi1.client\\coreapi1.client.esproj|solutionrelative:coreapi1.client\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6833FF0-C2D0-4A5F-945A-247FD4C75E3B}|coreapi1.client\\coreapi1.client.esproj|c:\\users\\mac\\source\\repos\\coreapi1\\coreapi1.client\\src\\app\\app-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A6833FF0-C2D0-4A5F-945A-247FD4C75E3B}|coreapi1.client\\coreapi1.client.esproj|solutionrelative:coreapi1.client\\src\\app\\app-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6833FF0-C2D0-4A5F-945A-247FD4C75E3B}|coreapi1.client\\coreapi1.client.esproj|c:\\users\\mac\\source\\repos\\coreapi1\\coreapi1.client\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A6833FF0-C2D0-4A5F-945A-247FD4C75E3B}|coreapi1.client\\coreapi1.client.esproj|solutionrelative:coreapi1.client\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52F08D1B-0F02-4B04-AEB6-B911040E17FD}|coreapi1.Server\\coreapi1.Server.csproj|c:\\users\\mac\\source\\repos\\coreapi1\\coreapi1.server\\idataservice\\idataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52F08D1B-0F02-4B04-AEB6-B911040E17FD}|coreapi1.Server\\coreapi1.Server.csproj|solutionrelative:coreapi1.server\\idataservice\\idataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52F08D1B-0F02-4B04-AEB6-B911040E17FD}|coreapi1.Server\\coreapi1.Server.csproj|c:\\users\\mac\\source\\repos\\coreapi1\\coreapi1.server\\dto\\addcategoryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52F08D1B-0F02-4B04-AEB6-B911040E17FD}|coreapi1.Server\\coreapi1.Server.csproj|solutionrelative:coreapi1.server\\dto\\addcategoryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52F08D1B-0F02-4B04-AEB6-B911040E17FD}|coreapi1.Server\\coreapi1.Server.csproj|c:\\users\\mac\\source\\repos\\coreapi1\\coreapi1.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52F08D1B-0F02-4B04-AEB6-B911040E17FD}|coreapi1.Server\\coreapi1.Server.csproj|solutionrelative:coreapi1.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52F08D1B-0F02-4B04-AEB6-B911040E17FD}|coreapi1.Server\\coreapi1.Server.csproj|c:\\users\\mac\\source\\repos\\coreapi1\\coreapi1.server\\dataservice\\dataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52F08D1B-0F02-4B04-AEB6-B911040E17FD}|coreapi1.Server\\coreapi1.Server.csproj|solutionrelative:coreapi1.server\\dataservice\\dataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52F08D1B-0F02-4B04-AEB6-B911040E17FD}|coreapi1.Server\\coreapi1.Server.csproj|c:\\users\\mac\\source\\repos\\coreapi1\\coreapi1.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{52F08D1B-0F02-4B04-AEB6-B911040E17FD}|coreapi1.Server\\coreapi1.Server.csproj|solutionrelative:coreapi1.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52F08D1B-0F02-4B04-AEB6-B911040E17FD}|coreapi1.Server\\coreapi1.Server.csproj|c:\\users\\mac\\source\\repos\\coreapi1\\coreapi1.server\\models\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52F08D1B-0F02-4B04-AEB6-B911040E17FD}|coreapi1.Server\\coreapi1.Server.csproj|solutionrelative:coreapi1.server\\models\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "angular.json",
+              "DocumentMoniker": "C:\\Users\\mac\\source\\repos\\coreapi1\\coreapi1.client\\angular.json",
+              "RelativeDocumentMoniker": "coreapi1.client\\angular.json",
+              "ToolTip": "C:\\Users\\mac\\source\\repos\\coreapi1\\coreapi1.client\\angular.json",
+              "RelativeToolTip": "coreapi1.client\\angular.json",
+              "ViewState": "AgIAAB4AAADAAAAAAEAlwCcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-14T11:23:07.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\mac\\source\\repos\\coreapi1\\coreapi1.client\\src\\index.html",
+              "RelativeDocumentMoniker": "coreapi1.client\\src\\index.html",
+              "ToolTip": "C:\\Users\\mac\\source\\repos\\coreapi1\\coreapi1.client\\src\\index.html",
+              "RelativeToolTip": "coreapi1.client\\src\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-04-14T07:31:47.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "app.component.html",
+              "DocumentMoniker": "C:\\Users\\mac\\source\\repos\\coreapi1\\coreapi1.client\\src\\app\\app.component.html",
+              "RelativeDocumentMoniker": "coreapi1.client\\src\\app\\app.component.html",
+              "ToolTip": "C:\\Users\\mac\\source\\repos\\coreapi1\\coreapi1.client\\src\\app\\app.component.html",
+              "RelativeToolTip": "coreapi1.client\\src\\app\\app.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-04-14T07:30:21.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "category.component.ts",
+              "DocumentMoniker": "C:\\Users\\mac\\source\\repos\\coreapi1\\coreapi1.client\\src\\app\\category\\category.component.ts",
+              "RelativeDocumentMoniker": "coreapi1.client\\src\\app\\category\\category.component.ts",
+              "ToolTip": "C:\\Users\\mac\\source\\repos\\coreapi1\\coreapi1.client\\src\\app\\category\\category.component.ts",
+              "RelativeToolTip": "coreapi1.client\\src\\app\\category\\category.component.ts",
+              "ViewState": "AgIAABcAAABAAAAAAEAiwCMAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-04-14T07:29:28.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "category.component.html",
+              "DocumentMoniker": "C:\\Users\\mac\\source\\repos\\coreapi1\\coreapi1.client\\src\\app\\category\\category.component.html",
+              "RelativeDocumentMoniker": "coreapi1.client\\src\\app\\category\\category.component.html",
+              "ToolTip": "C:\\Users\\mac\\source\\repos\\coreapi1\\coreapi1.client\\src\\app\\category\\category.component.html",
+              "RelativeToolTip": "coreapi1.client\\src\\app\\category\\category.component.html",
+              "ViewState": "AgIAAC4AAADgzczMzIwowDcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-04-14T07:28:35.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "hani.service.ts",
+              "DocumentMoniker": "C:\\Users\\mac\\source\\repos\\coreapi1\\coreapi1.client\\src\\app\\Service\\hani.service.ts",
+              "RelativeDocumentMoniker": "coreapi1.client\\src\\app\\Service\\hani.service.ts",
+              "ToolTip": "C:\\Users\\mac\\source\\repos\\coreapi1\\coreapi1.client\\src\\app\\Service\\hani.service.ts",
+              "RelativeToolTip": "coreapi1.client\\src\\app\\Service\\hani.service.ts",
+              "ViewState": "AgIAAAQAAAAwMzMzM3MiwBYAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-04-14T07:21:32.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AddCategoryRequest.cs",
+              "DocumentMoniker": "C:\\Users\\mac\\source\\repos\\coreapi1\\coreapi1.Server\\DTO\\AddCategoryRequest.cs",
+              "RelativeDocumentMoniker": "coreapi1.Server\\DTO\\AddCategoryRequest.cs",
+              "ToolTip": "C:\\Users\\mac\\source\\repos\\coreapi1\\coreapi1.Server\\DTO\\AddCategoryRequest.cs",
+              "RelativeToolTip": "coreapi1.Server\\DTO\\AddCategoryRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T07:08:51.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\mac\\source\\repos\\coreapi1\\coreapi1.Server\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "coreapi1.Server\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\mac\\source\\repos\\coreapi1\\coreapi1.Server\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "coreapi1.Server\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAsAAAAACQAAAAALwDAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T07:05:10.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "app.module.ts",
+              "DocumentMoniker": "C:\\Users\\mac\\source\\repos\\coreapi1\\coreapi1.client\\src\\app\\app.module.ts",
+              "RelativeDocumentMoniker": "coreapi1.client\\src\\app\\app.module.ts",
+              "ToolTip": "C:\\Users\\mac\\source\\repos\\coreapi1\\coreapi1.client\\src\\app\\app.module.ts",
+              "RelativeToolTip": "coreapi1.client\\src\\app\\app.module.ts",
+              "ViewState": "AgIAAAAAAACGZ2ZmZmYbwAwAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-04-14T08:48:49.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "app-routing.module.ts",
+              "DocumentMoniker": "C:\\Users\\mac\\source\\repos\\coreapi1\\coreapi1.client\\src\\app\\app-routing.module.ts",
+              "RelativeDocumentMoniker": "coreapi1.client\\src\\app\\app-routing.module.ts",
+              "ToolTip": "C:\\Users\\mac\\source\\repos\\coreapi1\\coreapi1.client\\src\\app\\app-routing.module.ts",
+              "RelativeToolTip": "coreapi1.client\\src\\app\\app-routing.module.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-04-14T09:00:34.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IDataService.cs",
+              "DocumentMoniker": "C:\\Users\\mac\\source\\repos\\coreapi1\\coreapi1.Server\\IDataService\\IDataService.cs",
+              "RelativeDocumentMoniker": "coreapi1.Server\\IDataService\\IDataService.cs",
+              "ToolTip": "C:\\Users\\mac\\source\\repos\\coreapi1\\coreapi1.Server\\IDataService\\IDataService.cs",
+              "RelativeToolTip": "coreapi1.Server\\IDataService\\IDataService.cs",
+              "ViewState": "AgIAAAsAAABAZ2ZmZmYnwBUAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T07:07:44.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DataService.cs",
+              "DocumentMoniker": "C:\\Users\\mac\\source\\repos\\coreapi1\\coreapi1.Server\\DataService\\DataService.cs",
+              "RelativeDocumentMoniker": "coreapi1.Server\\DataService\\DataService.cs",
+              "ToolTip": "C:\\Users\\mac\\source\\repos\\coreapi1\\coreapi1.Server\\DataService\\DataService.cs",
+              "RelativeToolTip": "coreapi1.Server\\DataService\\DataService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T07:03:44.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\mac\\source\\repos\\coreapi1\\coreapi1.Server\\appsettings.json",
+              "RelativeDocumentMoniker": "coreapi1.Server\\appsettings.json",
+              "ToolTip": "C:\\Users\\mac\\source\\repos\\coreapi1\\coreapi1.Server\\appsettings.json",
+              "RelativeToolTip": "coreapi1.Server\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-14T06:58:49.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MyDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\mac\\source\\repos\\coreapi1\\coreapi1.Server\\Models\\MyDbContext.cs",
+              "RelativeDocumentMoniker": "coreapi1.Server\\Models\\MyDbContext.cs",
+              "ToolTip": "C:\\Users\\mac\\source\\repos\\coreapi1\\coreapi1.Server\\Models\\MyDbContext.cs",
+              "RelativeToolTip": "coreapi1.Server\\Models\\MyDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T06:58:32.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mac\\source\\repos\\coreapi1\\coreapi1.Server\\Program.cs",
+              "RelativeDocumentMoniker": "coreapi1.Server\\Program.cs",
+              "ToolTip": "C:\\Users\\mac\\source\\repos\\coreapi1\\coreapi1.Server\\Program.cs",
+              "RelativeToolTip": "coreapi1.Server\\Program.cs",
+              "ViewState": "AgIAAAMAAABgMzMzM7MiwBEAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T06:58:01.866Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

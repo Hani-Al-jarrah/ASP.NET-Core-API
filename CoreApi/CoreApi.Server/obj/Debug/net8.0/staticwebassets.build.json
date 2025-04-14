@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "Hash": "ExyvjKjMJ8MRMy+eeHkOwkIiJNol1VS71odaiDgVY3E=",
+  "Hash": "IXGON9SeWbUB5aKczd/5Bk+5yX2f/JEWvzKiO2/H9Oc=",
   "Source": "CoreApi.Server",
   "BasePath": "_content/CoreApi.Server",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [
     {
-      "Identity": "C:\\Users\\mac\\source\\repos\\CoreApi\\coreapi.client\\coreapi.client.esproj",
+      "Identity": "C:\\Users\\mac\\Desktop\\ASP.NET-Core-API\\CoreApi\\coreapi.client\\coreapi.client.esproj",
       "Version": 2,
       "Source": "coreapi.client",
       "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",

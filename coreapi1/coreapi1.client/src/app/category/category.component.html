@@ -1,0 +1,72 @@
+<div class="container mt-5">
+
+  <h2 class="text-center mb-4">📂 Category Manager</h2>
+
+  <!-- Add / Edit Form -->
+  <div class="card mb-4">
+    <div class="card-header bg-primary text-white">
+      {{ isEditMode ? '✏️ Edit Category' : '➕ Add New Category' }}
+    </div>
+    <div class="card-body">
+      <form (ngSubmit)="isEditMode ? updateCategory() : addCategory(newCategory)" #categoryForm="ngForm">
+        <div class="mb-3">
+          <label for="categoryName" class="form-label">Category Name</label>
+          <input
+            type="text"
+            class="form-control"
+            id="categoryName"
+            name="categoryName"
+            [(ngModel)]="newCategory.categoryName"
+            required
+          />
+        </div>
+        <div class="mb-3">
+          <label for="categoryDescription" class="form-label">Category Description</label>
+          <textarea
+            class="form-control"
+            id="categoryDescription"
+            name="categoryDescription"
+            rows="3"
+            [(ngModel)]="newCategory.categoryDescription"
+            required
+          ></textarea>
+        </div>
+        <button type="submit" class="btn btn-success me-2">
+          {{ isEditMode ? 'Update' : 'Add' }}
+        </button>
+        <button type="button" class="btn btn-secondary" (click)="resetForm()">Cancel</button>
+      </form>
+    </div>
+  </div>
+
+  <!-- Category Table -->
+  <div class="card">
+    <div class="card-header bg-dark text-white">
+      📋 Existing Categories
+    </div>
+    <div class="card-body p-0">
+      <table class="table table-striped table-bordered m-0">
+        <thead class="table-dark">
+          <tr>
+            <th>ID</th>
+            <th>Name</th>
+            <th>Description</th>
+            <th class="text-center">Actions</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr *ngFor="let cat of categoryList">
+            <td>{{ cat.categoryId }}</td>
+            <td>{{ cat.categoryName }}</td>
+            <td>{{ cat.categoryDescription }}</td>
+            <td class="text-center">
+              <button class="btn btn-sm btn-warning me-2" (click)="editCategory(cat)">Edit</button>
+              <!-- Optional Delete Button -->
+               <button class="btn btn-sm btn-danger" (click)="deleteCategory(cat.categoryId)">Delete</button>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+</div>

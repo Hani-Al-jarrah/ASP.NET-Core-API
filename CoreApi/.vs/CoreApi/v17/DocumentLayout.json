@@ -1,26 +1,70 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\mac\\source\\repos\\CoreApi\\",
+  "WorkspaceRootPath": "C:\\Users\\mac\\Desktop\\ASP.NET-Core-API\\CoreApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{91688E7B-74F3-42FC-BFBA-306222D267EA}|CoreApi.Server\\CoreApi.Server.csproj|c:\\users\\mac\\source\\repos\\coreapi\\coreapi.server\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{91688E7B-74F3-42FC-BFBA-306222D267EA}|CoreApi.Server\\CoreApi.Server.csproj|solutionrelative:coreapi.server\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{91688E7B-74F3-42FC-BFBA-306222D267EA}|CoreApi.Server\\CoreApi.Server.csproj|c:\\users\\mac\\source\\repos\\coreapi\\coreapi.server\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{91688E7B-74F3-42FC-BFBA-306222D267EA}|CoreApi.Server\\CoreApi.Server.csproj|c:\\users\\mac\\desktop\\asp.net-core-api\\coreapi\\coreapi.server\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{91688E7B-74F3-42FC-BFBA-306222D267EA}|CoreApi.Server\\CoreApi.Server.csproj|solutionrelative:coreapi.server\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{91688E7B-74F3-42FC-BFBA-306222D267EA}|CoreApi.Server\\CoreApi.Server.csproj|c:\\users\\mac\\source\\repos\\coreapi\\coreapi.server\\models\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{91688E7B-74F3-42FC-BFBA-306222D267EA}|CoreApi.Server\\CoreApi.Server.csproj|c:\\users\\mac\\desktop\\asp.net-core-api\\coreapi\\coreapi.server\\categoryservice\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91688E7B-74F3-42FC-BFBA-306222D267EA}|CoreApi.Server\\CoreApi.Server.csproj|solutionrelative:coreapi.server\\categoryservice\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA47FC84-7BFB-4F87-90B6-6575BCBEE08F}|coreapi.client\\coreapi.client.esproj|c:\\users\\mac\\desktop\\asp.net-core-api\\coreapi\\coreapi.client\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FA47FC84-7BFB-4F87-90B6-6575BCBEE08F}|coreapi.client\\coreapi.client.esproj|solutionrelative:coreapi.client\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA47FC84-7BFB-4F87-90B6-6575BCBEE08F}|coreapi.client\\coreapi.client.esproj|c:\\users\\mac\\desktop\\asp.net-core-api\\coreapi\\coreapi.client\\src\\app\\myservice.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{FA47FC84-7BFB-4F87-90B6-6575BCBEE08F}|coreapi.client\\coreapi.client.esproj|solutionrelative:coreapi.client\\src\\app\\myservice.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA47FC84-7BFB-4F87-90B6-6575BCBEE08F}|coreapi.client\\coreapi.client.esproj|c:\\users\\mac\\desktop\\asp.net-core-api\\coreapi\\coreapi.client\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FA47FC84-7BFB-4F87-90B6-6575BCBEE08F}|coreapi.client\\coreapi.client.esproj|solutionrelative:coreapi.client\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA47FC84-7BFB-4F87-90B6-6575BCBEE08F}|coreapi.client\\coreapi.client.esproj|c:\\users\\mac\\desktop\\asp.net-core-api\\coreapi\\coreapi.client\\src\\app\\category\\category.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{FA47FC84-7BFB-4F87-90B6-6575BCBEE08F}|coreapi.client\\coreapi.client.esproj|solutionrelative:coreapi.client\\src\\app\\category\\category.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA47FC84-7BFB-4F87-90B6-6575BCBEE08F}|coreapi.client\\coreapi.client.esproj|c:\\users\\mac\\desktop\\asp.net-core-api\\coreapi\\coreapi.client\\src\\app\\category\\category.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FA47FC84-7BFB-4F87-90B6-6575BCBEE08F}|coreapi.client\\coreapi.client.esproj|solutionrelative:coreapi.client\\src\\app\\category\\category.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91688E7B-74F3-42FC-BFBA-306222D267EA}|CoreApi.Server\\CoreApi.Server.csproj|c:\\users\\mac\\desktop\\asp.net-core-api\\coreapi\\coreapi.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91688E7B-74F3-42FC-BFBA-306222D267EA}|CoreApi.Server\\CoreApi.Server.csproj|solutionrelative:coreapi.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91688E7B-74F3-42FC-BFBA-306222D267EA}|CoreApi.Server\\CoreApi.Server.csproj|c:\\users\\mac\\desktop\\asp.net-core-api\\coreapi\\coreapi.server\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91688E7B-74F3-42FC-BFBA-306222D267EA}|CoreApi.Server\\CoreApi.Server.csproj|solutionrelative:coreapi.server\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91688E7B-74F3-42FC-BFBA-306222D267EA}|CoreApi.Server\\CoreApi.Server.csproj|c:\\users\\mac\\desktop\\asp.net-core-api\\coreapi\\coreapi.server\\icategoryservice\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91688E7B-74F3-42FC-BFBA-306222D267EA}|CoreApi.Server\\CoreApi.Server.csproj|solutionrelative:coreapi.server\\icategoryservice\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA47FC84-7BFB-4F87-90B6-6575BCBEE08F}|coreapi.client\\coreapi.client.esproj|c:\\users\\mac\\desktop\\asp.net-core-api\\coreapi\\coreapi.client\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{FA47FC84-7BFB-4F87-90B6-6575BCBEE08F}|coreapi.client\\coreapi.client.esproj|solutionrelative:coreapi.client\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA47FC84-7BFB-4F87-90B6-6575BCBEE08F}|coreapi.client\\coreapi.client.esproj|c:\\users\\mac\\desktop\\asp.net-core-api\\coreapi\\coreapi.client\\src\\app\\myservice.service.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{FA47FC84-7BFB-4F87-90B6-6575BCBEE08F}|coreapi.client\\coreapi.client.esproj|solutionrelative:coreapi.client\\src\\app\\myservice.service.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA47FC84-7BFB-4F87-90B6-6575BCBEE08F}|coreapi.client\\coreapi.client.esproj|c:\\users\\mac\\desktop\\asp.net-core-api\\coreapi\\coreapi.client\\src\\app\\app-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{FA47FC84-7BFB-4F87-90B6-6575BCBEE08F}|coreapi.client\\coreapi.client.esproj|solutionrelative:coreapi.client\\src\\app\\app-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91688E7B-74F3-42FC-BFBA-306222D267EA}|CoreApi.Server\\CoreApi.Server.csproj|c:\\users\\mac\\desktop\\asp.net-core-api\\coreapi\\coreapi.server\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91688E7B-74F3-42FC-BFBA-306222D267EA}|CoreApi.Server\\CoreApi.Server.csproj|solutionrelative:coreapi.server\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91688E7B-74F3-42FC-BFBA-306222D267EA}|CoreApi.Server\\CoreApi.Server.csproj|c:\\users\\mac\\desktop\\asp.net-core-api\\coreapi\\coreapi.server\\models\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{91688E7B-74F3-42FC-BFBA-306222D267EA}|CoreApi.Server\\CoreApi.Server.csproj|solutionrelative:coreapi.server\\models\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{91688E7B-74F3-42FC-BFBA-306222D267EA}|CoreApi.Server\\CoreApi.Server.csproj|c:\\users\\mac\\source\\repos\\coreapi\\coreapi.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{91688E7B-74F3-42FC-BFBA-306222D267EA}|CoreApi.Server\\CoreApi.Server.csproj|c:\\users\\mac\\desktop\\asp.net-core-api\\coreapi\\coreapi.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{91688E7B-74F3-42FC-BFBA-306222D267EA}|CoreApi.Server\\CoreApi.Server.csproj|solutionrelative:coreapi.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{91688E7B-74F3-42FC-BFBA-306222D267EA}|CoreApi.Server\\CoreApi.Server.csproj|c:\\users\\mac\\source\\repos\\coreapi\\coreapi.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{91688E7B-74F3-42FC-BFBA-306222D267EA}|CoreApi.Server\\CoreApi.Server.csproj|solutionrelative:coreapi.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +74,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,68 +82,202 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "C:\\Users\\mac\\source\\repos\\CoreApi\\CoreApi.Server\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "CoreApi.Server\\Controllers\\ProductController.cs",
-              "ToolTip": "C:\\Users\\mac\\source\\repos\\CoreApi\\CoreApi.Server\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "CoreApi.Server\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAAAsAAACAmZmZmdkgwBQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T14:24:16.49Z",
+              "DocumentIndex": 4,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\mac\\Desktop\\ASP.NET-Core-API\\CoreApi\\coreapi.client\\src\\index.html",
+              "RelativeDocumentMoniker": "coreapi.client\\src\\index.html",
+              "ToolTip": "C:\\Users\\mac\\Desktop\\ASP.NET-Core-API\\CoreApi\\coreapi.client\\src\\index.html",
+              "RelativeToolTip": "coreapi.client\\src\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-04-12T13:58:29.978Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
+              "Title": "category.component.html",
+              "DocumentMoniker": "C:\\Users\\mac\\Desktop\\ASP.NET-Core-API\\CoreApi\\coreapi.client\\src\\app\\category\\category.component.html",
+              "RelativeDocumentMoniker": "coreapi.client\\src\\app\\category\\category.component.html",
+              "ToolTip": "C:\\Users\\mac\\Desktop\\ASP.NET-Core-API\\CoreApi\\coreapi.client\\src\\app\\category\\category.component.html",
+              "RelativeToolTip": "coreapi.client\\src\\app\\category\\category.component.html",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAUwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-04-12T08:29:47.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "myservice.service.ts",
+              "DocumentMoniker": "C:\\Users\\mac\\Desktop\\ASP.NET-Core-API\\CoreApi\\coreapi.client\\src\\app\\myservice.service.ts",
+              "RelativeDocumentMoniker": "coreapi.client\\src\\app\\myservice.service.ts",
+              "ToolTip": "C:\\Users\\mac\\Desktop\\ASP.NET-Core-API\\CoreApi\\coreapi.client\\src\\app\\myservice.service.ts",
+              "RelativeToolTip": "coreapi.client\\src\\app\\myservice.service.ts",
+              "ViewState": "AgIAAAIAAADAbGZmZuYUwA0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-04-12T08:26:08.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mac\\Desktop\\ASP.NET-Core-API\\CoreApi\\CoreApi.Server\\Program.cs",
+              "RelativeDocumentMoniker": "CoreApi.Server\\Program.cs",
+              "ToolTip": "C:\\Users\\mac\\Desktop\\ASP.NET-Core-API\\CoreApi\\CoreApi.Server\\Program.cs",
+              "RelativeToolTip": "CoreApi.Server\\Program.cs",
+              "ViewState": "AgIAAB4AAAAANDMzMzMLwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T08:45:37.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "CategoryController.cs",
-              "DocumentMoniker": "C:\\Users\\mac\\source\\repos\\CoreApi\\CoreApi.Server\\Controllers\\CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\mac\\Desktop\\ASP.NET-Core-API\\CoreApi\\CoreApi.Server\\Controllers\\CategoryController.cs",
               "RelativeDocumentMoniker": "CoreApi.Server\\Controllers\\CategoryController.cs",
-              "ToolTip": "C:\\Users\\mac\\source\\repos\\CoreApi\\CoreApi.Server\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\mac\\Desktop\\ASP.NET-Core-API\\CoreApi\\CoreApi.Server\\Controllers\\CategoryController.cs",
               "RelativeToolTip": "CoreApi.Server\\Controllers\\CategoryController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAACAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAABwAAAAD+vwAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-08T13:01:26.515Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\mac\\source\\repos\\CoreApi\\CoreApi.Server\\appsettings.json",
-              "RelativeDocumentMoniker": "CoreApi.Server\\appsettings.json",
-              "ToolTip": "C:\\Users\\mac\\source\\repos\\CoreApi\\CoreApi.Server\\appsettings.json",
-              "RelativeToolTip": "CoreApi.Server\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-08T08:51:53.948Z",
+              "DocumentIndex": 1,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\mac\\Desktop\\ASP.NET-Core-API\\CoreApi\\CoreApi.Server\\CategoryService\\CategoryService.cs",
+              "RelativeDocumentMoniker": "CoreApi.Server\\CategoryService\\CategoryService.cs",
+              "ToolTip": "C:\\Users\\mac\\Desktop\\ASP.NET-Core-API\\CoreApi\\CoreApi.Server\\CategoryService\\CategoryService.cs",
+              "RelativeToolTip": "CoreApi.Server\\CategoryService\\CategoryService.cs",
+              "ViewState": "AgIAAAoAAAAAHAAAAAD+vwcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T08:03:25.721Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\mac\\source\\repos\\CoreApi\\CoreApi.Server\\Program.cs",
-              "RelativeDocumentMoniker": "CoreApi.Server\\Program.cs",
-              "ToolTip": "C:\\Users\\mac\\source\\repos\\CoreApi\\CoreApi.Server\\Program.cs",
-              "RelativeToolTip": "CoreApi.Server\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABaAAAAAAAAAA==",
+              "DocumentIndex": 9,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\mac\\Desktop\\ASP.NET-Core-API\\CoreApi\\CoreApi.Server\\ICategoryService\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "CoreApi.Server\\ICategoryService\\ICategoryService.cs",
+              "ToolTip": "C:\\Users\\mac\\Desktop\\ASP.NET-Core-API\\CoreApi\\CoreApi.Server\\ICategoryService\\ICategoryService.cs",
+              "RelativeToolTip": "CoreApi.Server\\ICategoryService\\ICategoryService.cs",
+              "ViewState": "AgIAAAEAAABgMzMzM/MmwAIAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T08:45:37.645Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-12T08:01:27.128Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "app.component.html",
+              "DocumentMoniker": "C:\\Users\\mac\\Desktop\\ASP.NET-Core-API\\CoreApi\\coreapi.client\\src\\app\\app.component.html",
+              "RelativeDocumentMoniker": "coreapi.client\\src\\app\\app.component.html",
+              "ToolTip": "C:\\Users\\mac\\Desktop\\ASP.NET-Core-API\\CoreApi\\coreapi.client\\src\\app\\app.component.html",
+              "RelativeToolTip": "coreapi.client\\src\\app\\app.component.html",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAwAsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-04-12T08:35:19.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "app.module.ts",
+              "DocumentMoniker": "C:\\Users\\mac\\Desktop\\ASP.NET-Core-API\\CoreApi\\coreapi.client\\src\\app\\app.module.ts",
+              "RelativeDocumentMoniker": "coreapi.client\\src\\app\\app.module.ts",
+              "ToolTip": "C:\\Users\\mac\\Desktop\\ASP.NET-Core-API\\CoreApi\\coreapi.client\\src\\app\\app.module.ts",
+              "RelativeToolTip": "coreapi.client\\src\\app\\app.module.ts",
+              "ViewState": "AgIAAAMAAADAAAAAAIAZwAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-04-12T08:30:10.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "category.component.ts",
+              "DocumentMoniker": "C:\\Users\\mac\\Desktop\\ASP.NET-Core-API\\CoreApi\\coreapi.client\\src\\app\\category\\category.component.ts",
+              "RelativeDocumentMoniker": "coreapi.client\\src\\app\\category\\category.component.ts",
+              "ToolTip": "C:\\Users\\mac\\Desktop\\ASP.NET-Core-API\\CoreApi\\coreapi.client\\src\\app\\category\\category.component.ts",
+              "RelativeToolTip": "coreapi.client\\src\\app\\category\\category.component.ts",
+              "ViewState": "AgIAAAUAAAAAmpmZmZkawBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-04-12T08:26:42.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\mac\\Desktop\\ASP.NET-Core-API\\CoreApi\\CoreApi.Server\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "CoreApi.Server\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\mac\\Desktop\\ASP.NET-Core-API\\CoreApi\\CoreApi.Server\\Models\\Category.cs",
+              "RelativeToolTip": "CoreApi.Server\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T07:58:02.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "myservice.service.spec.ts",
+              "DocumentMoniker": "C:\\Users\\mac\\Desktop\\ASP.NET-Core-API\\CoreApi\\coreapi.client\\src\\app\\myservice.service.spec.ts",
+              "RelativeDocumentMoniker": "coreapi.client\\src\\app\\myservice.service.spec.ts",
+              "ToolTip": "C:\\Users\\mac\\Desktop\\ASP.NET-Core-API\\CoreApi\\coreapi.client\\src\\app\\myservice.service.spec.ts",
+              "RelativeToolTip": "coreapi.client\\src\\app\\myservice.service.spec.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-04-12T08:43:56.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "app-routing.module.ts",
+              "DocumentMoniker": "C:\\Users\\mac\\Desktop\\ASP.NET-Core-API\\CoreApi\\coreapi.client\\src\\app\\app-routing.module.ts",
+              "RelativeDocumentMoniker": "coreapi.client\\src\\app\\app-routing.module.ts",
+              "ToolTip": "C:\\Users\\mac\\Desktop\\ASP.NET-Core-API\\CoreApi\\coreapi.client\\src\\app\\app-routing.module.ts",
+              "RelativeToolTip": "coreapi.client\\src\\app\\app-routing.module.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-04-12T08:32:23.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\mac\\Desktop\\ASP.NET-Core-API\\CoreApi\\CoreApi.Server\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "CoreApi.Server\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\mac\\Desktop\\ASP.NET-Core-API\\CoreApi\\CoreApi.Server\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "CoreApi.Server\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAABgZmZmZiYgwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T14:24:16.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\mac\\Desktop\\ASP.NET-Core-API\\CoreApi\\CoreApi.Server\\appsettings.json",
+              "RelativeDocumentMoniker": "CoreApi.Server\\appsettings.json",
+              "ToolTip": "C:\\Users\\mac\\Desktop\\ASP.NET-Core-API\\CoreApi\\CoreApi.Server\\appsettings.json",
+              "RelativeToolTip": "CoreApi.Server\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-08T08:51:53.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "MyDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\mac\\source\\repos\\CoreApi\\CoreApi.Server\\Models\\MyDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\mac\\Desktop\\ASP.NET-Core-API\\CoreApi\\CoreApi.Server\\Models\\MyDbContext.cs",
               "RelativeDocumentMoniker": "CoreApi.Server\\Models\\MyDbContext.cs",
-              "ToolTip": "C:\\Users\\mac\\source\\repos\\CoreApi\\CoreApi.Server\\Models\\MyDbContext.cs",
+              "ToolTip": "C:\\Users\\mac\\Desktop\\ASP.NET-Core-API\\CoreApi\\CoreApi.Server\\Models\\MyDbContext.cs",
               "RelativeToolTip": "CoreApi.Server\\Models\\MyDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T08:44:47.963Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-08T08:44:47.963Z"
             }
           ]
         }
